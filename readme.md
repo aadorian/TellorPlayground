@@ -1,6 +1,10 @@
+![](https://i.imgur.com/YfP8eLA.png)
 
+Video: 
+https://youtu.be/8lLBL-hFRRg
 
-Example of new datatype in Tellor Playground 
+Example using  Tellor Playground returning the contractAddress of
+the deployed contract.
 ```solidity 
      address private _contractAddress;
     constructor (string memory name, string memory symbol) {
