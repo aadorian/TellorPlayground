@@ -1,4 +1,7 @@
+**Extended Datatype **
+
 Extended datatype address and function contractAddress() for using in Tellor Playground
+
 ![](https://i.imgur.com/YfP8eLA.png)
 
 Video: 
